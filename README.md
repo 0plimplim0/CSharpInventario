@@ -1,6 +1,6 @@
 # Sistema de inventario
 
-##Funcionalidades
+## Funcionalidades
 - Agregar items
 - Eliminar items
 - Editar items (cantidad)
